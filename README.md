@@ -6,7 +6,7 @@
 ### Explore!
 |:heart:|Project|For|Description|
 |:-:|---:|:---:|-|
-|:fire:|[**Equation Sheets**](https://github.com/tengjuilin/equation-sheets)|**Peers**|**Equation sheets of STEM courses at UW. Topics include general chemistry, mechanics, and electromagnetism.**|
+|:fire:|[**Equation Sheets**](https://github.com/tengjuilin/equation-sheets)|**Peers**|**Equation sheets of STEM courses at UW. Topics include chemistry, physics, calculus, applied mathematics, and chemical engineering.**|
 |:microscope:|[3D Image Slicing](https://github.com/tengjuilin/3d-image-slicing)|BIOEN 217|A 3D volumetric image slicing implementation in MATLAB.|
 |:deciduous_tree:|[Family Tree](https://github.com/tengjuilin/family-tree)|Fun|Easy implementation of web family free.|
 |:rocket:|[Orbit Simulation](https://github.com/tengjuilin/orbit-simulation)|High School|An orbit simulation of a rocket/satellite launched from the Earth that performs Hohmann transfer and orbits around the Moon. |
