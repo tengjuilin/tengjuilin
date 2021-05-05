@@ -7,9 +7,11 @@
 |:heart:|Project|For|Description|
 |:-:|---|:---:|-|
 |:fire:|[**Equation Sheets**](https://github.com/tengjuilin/equation-sheets)|**Peers**|**Equation sheets of STEM courses at UW. Topics include chemistry, physics, calculus, applied mathematics, and chemical engineering.**|
-|:microscope:|[3D Image Slicing](https://github.com/tengjuilin/3d-image-slicing)|BIOEN 217|A 3D volumetric image slicing implementation in MATLAB.|
+|:microscope:|[3D Image Slicing](https://github.com/tengjuilin/3d-image-slicing)|BIOEN 217|3D volumetric image slicing implementation in MATLAB.|
 |:deciduous_tree:|[Family Tree](https://github.com/tengjuilin/family-tree)|Fun|Easy implementation of web family free.|
-|:rocket:|[Orbit Simulation](https://github.com/tengjuilin/orbit-simulation)|High School|An orbit simulation of a rocket/satellite launched from the Earth that performs Hohmann transfer and orbits around the Moon. |
+|:rocket:|[Orbit Simulation](https://github.com/tengjuilin/orbit-simulation)|High School|Orbit simulation of a rocket/satellite launched from the Earth that performs Hohmann transfer and orbits around the Moon. |
+|:page_facing_up:|[Curriculum Vitae](http://polarize.pw/cv/)|Myself|Summary of my experience, qualification, and education.|
+
 
 ### Languages
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/1280px-Flag_of_the_People%27s_Republic_of_China.svg.png" width=20 alt="logo"> Chinese
