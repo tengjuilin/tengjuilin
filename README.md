@@ -7,6 +7,8 @@
 |:heart:|Project|For|Description|
 |:-:|---|:---:|-|
 |:fire:|[**Equation Sheets**](https://github.com/tengjuilin/equation-sheets)|**Peers**|**Equation sheets of STEM courses at UW. Topics include chemistry, physics, calculus, applied mathematics, and chemical engineering.**|
+|:bar_chart:|[CHEME Scientific Computing](https://github.com/tengjuilin/cheme-scientific-computing)|CHEME 375|Chemical engineering scientific computing and numerical methods. Txy diagrams, kinetics, 1D heat transfer, time-dependent heat transfer.|
+|:computer:|[Intro to Scientific Computing](https://github.com/tengjuilin/intro-scientific-computing)|AMATH 301|Intro to scientific computing and numerical methods with engineering applications.|
 |:microscope:|[3D Image Slicing](https://github.com/tengjuilin/3d-image-slicing)|BIOEN 217|3D volumetric image slicing implementation in MATLAB.|
 |:deciduous_tree:|[Family Tree](https://github.com/tengjuilin/family-tree)|Fun|Easy implementation of web family free.|
 |:rocket:|[Orbit Simulation](https://github.com/tengjuilin/orbit-simulation)|High School|Orbit simulation of a rocket/satellite launched from the Earth that performs Hohmann transfer and orbits around the Moon. |
