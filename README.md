@@ -1,7 +1,7 @@
 # Hi! I'm Teng-Jui Lin (Owen) <a href="https://www.linkedin.com/in/tengjuilin/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" width=20 alt="logo"></a>
 - <a href="https://www.cheme.washington.edu/"><img src="https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/98/2014/09/07214451/W-Logo_Purple_Hex-300x202.png" width=20 alt="logo"></a> Chemical Engineering Student, University of Washington
 - <a href="https://www.nancelab.com/"><img src="https://static.wixstatic.com/media/41844b_870e907a7fd34009ae36b3a1a3f8d6a4~mv2_d_4778_3828_s_4_2.png/v1/fill/w_466,h_429,al_c,q_85,usm_0.66_1.00_0.01/41844b_870e907a7fd34009ae36b3a1a3f8d6a4~mv2_d_4778_3828_s_4_2.webp" width=20 alt="logo"></a> Undergraduate Research Assistant, Nance Lab
-- <img src="https://www.cssauw.org/favicon.ico" width=20 alt="logo"> Research and Development Officer, UWCSSA
+- <img src="https://media-exp3.licdn.com/dms/image/C5607AQG8-2Vn9OlhAA/group-logo_image-shrink_400x400/0/1576115106475?e=1625223600&v=beta&t=MpAOVf0Tn41zXtkolEnOtTBO7IZM0ugP08iPEWTzVF0" width=20 alt="logo"> Secretary, Women in Chemical Engineering at UW
 
 ### Explore!
 |:heart:|Project|For|Description|
