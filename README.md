@@ -9,7 +9,7 @@
 |:heart:|Project Source|For|Description|
 |:-:|---|:---:|-|
 |:vampire:|[VAMPIRE Analysis](https://github.com/tengjuilin/vampire-analysis)|Research|VAMPIRE (Visually Aided Morpho-Phenotyping Image Recognition) analysis quantifies and visualizes heterogeneity of cell and nucleus morphology|
-|:fire:|[Equation Sheets](https://github.com/tengjuilin/equation-sheets)|Peers|Equation sheets of STEM courses at UW. Topics include chemistry, physics, calculus, applied mathematics, and chemical engineering. [In Action :airplane:](https://tengjuilin.netlify.app/resources/equation-sheets/)|
+|:fire:|[Equation Sheets](https://github.com/tengjuilin/equation-sheets)|Peers|Equation sheets of STEM courses at UW. Topics include chemistry, physics, calculus, applied mathematics, and chemical engineering. [In Action :airplane:](https://equation-sheets.netlify.app/)|
 |:bar_chart:|[CHEME Scientific Computing](https://github.com/tengjuilin/cheme-sci-computing)|CHEME 375|Chemical engineering scientific computing and numerical methods. Txy diagrams, kinetics, 1D heat transfer, time-dependent heat transfer. [In Action :airplane:](https://cheme-sci-computing.netlify.app/)|
 |:keyboard:|[Intro to Scientific Computing](https://github.com/tengjuilin/intro-sci-computing)|AMATH 301|Intro to scientific computing and numerical methods with engineering applications. [In Action :airplane:](https://intro-sci-computing.netlify.app/)|
 |:microscope:|[3D Image Slicing](https://github.com/tengjuilin/3d-image-slicing)|BIOEN 217|3D volumetric image slicing implementation in MATLAB.|
