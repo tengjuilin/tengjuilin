@@ -1,8 +1,7 @@
 # Hi! I'm Teng-Jui Lin (Owen) [<img src="https://simpleicons.org/icons/linkedin.svg" width=20 alt="linkedin">](https://www.linkedin.com/in/tengjuilin/) [<img src="https://simpleicons.org/icons/github.svg" width=20 alt="github">](https://github.com/tengjuilin)
 
-- [<img src="https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/98/2014/09/07214451/W-Logo_Purple_Hex-300x202.png" width=20 alt="uw">](https://www.cheme.washington.edu/) Chemical Engineering Student, University of Washington
-- [:brain:](https://www.nancelab.com/) Undergraduate Research Assistant, Nance Lab
-- [:bookmark_tabs:](https://www.wcheuw.com/) Secretary, Women in Chemical Engineering at UW
+- [<img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/California_Golden_Bears_logo.svg" width=20 alt="uc berkeley">](https://chemistry.berkeley.edu/cbe) PhD Student, Chemical and Biomolecular Engineering, UC Berkeley
+<!-- - [:brain:](https://www.landrylab.com/) Graduate Research Assistant, Landry Lab-->
 
 ### School Fun
 
