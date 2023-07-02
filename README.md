@@ -20,7 +20,7 @@
 |:heart:|Project Source|For|Description|
 |:-:|---|:---:|-|
 |:computer:|[Personal Website](https://github.com/tengjuilin/lin-website)|Myself|Personal website with blog posts, news, resources, and CV. Archives pervious content and page designs. [In Action :airplane:](https://tengjuilin.netlify.app/)|
-|:page_facing_up:|[Markdown Resume](https://github.com/tengjuilin/markdown-resume)|Myself|A simple, elegant, and fast workflow to write resumes and CVs in Markdown. [In Action :airplane:](https://github.com/tengjuilin/markdown-resume/blob/main/source/resume.pdf)|
+|:page_facing_up:|[Markdown Resume](https://github.com/tengjuilin/markdown-resume)|Myself|A simple, elegant, and fast workflow to write resumes and CVs in Markdown. [In Action :airplane:](https://github.com/tengjuilin/markdown-resume/blob/main/source/cv_full.pdf)|
 |:camera_flash:|[Photo Spider](https://github.com/tengjuilin/best-photo-spider)|Myself and Beloved Friends|Web spider that scrapes photos from my primary school and high school's website.|
 |:deciduous_tree:|[Family Tree](https://github.com/tengjuilin/family-tree)|Fun|Easy implementation of web family free.|
 |:rocket:|[Orbit Simulation](https://github.com/tengjuilin/orbit-simulation)|High School|Orbit simulation of a rocket/satellite launched from the Earth that performs Hohmann transfer and orbits around the Moon.|
