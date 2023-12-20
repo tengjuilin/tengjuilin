@@ -43,5 +43,4 @@
 <img src="https://simpleicons.org/icons/git.svg" width=20 alt="logo">&nbsp;
 <img src="https://simpleicons.org/icons/markdown.svg" width=20 alt="logo">
 <img src="https://simpleicons.org/icons/latex.svg" width=20 alt="logo">
-<img src="https://simpleicons.org/icons/microsoftoffice.svg" width=20 alt="logo">
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width=20 alt="logo">
