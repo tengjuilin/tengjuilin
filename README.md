@@ -7,6 +7,7 @@
 
 |:heart:|Project Source|For|Description|
 |:-:|---|:---:|-|
+|:bar_chart:|[Misused Bar Graphs](https://github.com/tengjuilin/misused-bar-graphs)|Research|[*bioRxiv* preprint](https://www.biorxiv.org/content/10.1101/2024.09.20.609464). Quantifying prevalence and extend of data distortion in bar graphs in biological research.|
 |:vampire:|[VAMPIRE Analysis](https://github.com/tengjuilin/vampire-analysis)|Research|VAMPIRE (Visually Aided Morpho-Phenotyping Image Recognition) analysis quantifies and visualizes heterogeneity of cell and nucleus morphology|
 |:fire:|[Equation Sheets](https://github.com/tengjuilin/equation-sheets)|Peers|Equation sheets of STEM courses at UW. Topics include chemistry, physics, calculus, applied mathematics, and chemical engineering. [In Action :airplane:](https://equation-sheets.netlify.app/)|
 |:bookmark_tabs:|[Course Notes](https://github.com/tengjuilin/course-notes)|Peers|Course notes of STEM courses at UW. Topics include chemical engineering, chemistry, and applied mathematics.|
