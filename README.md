@@ -1,4 +1,4 @@
-# Hi! I'm Teng-Jui Lin (Owen) [<img src="https://simpleicons.org/icons/linkedin.svg" width=20 alt="linkedin">](https://www.linkedin.com/in/tengjuilin/) [<img src="https://simpleicons.org/icons/github.svg" width=20 alt="github">](https://github.com/tengjuilin)
+# Hi! I'm Teng-Jui Lin (Owen) [<img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-black-and-white-logos/1000/2018_social_media_popular_app_logo_linkedin-1024.png" width=20 alt="linkedin">](https://www.linkedin.com/in/tengjuilin/) [<img src="https://simpleicons.org/icons/github.svg" width=20 alt="github">](https://github.com/tengjuilin)
 
 - [<img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/California_Golden_Bears_logo.svg" width=20 alt="uc berkeley">](https://chemistry.berkeley.edu/cbe) PhD Student, Chemical and Biomolecular Engineering, UC Berkeley
 <!-- - [:brain:](https://www.landrylab.com/) Graduate Research Assistant, Landry Lab-->
