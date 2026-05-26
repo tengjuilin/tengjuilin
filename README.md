@@ -25,23 +25,3 @@
 |:camera_flash:|[Photo Spider](https://github.com/tengjuilin/best-photo-spider)|Myself and Beloved Friends|Web spider that scrapes photos from my primary school and high school's website.|
 |:deciduous_tree:|[Family Tree](https://github.com/tengjuilin/family-tree)|Fun|Easy implementation of web family free.|
 |:rocket:|[Orbit Simulation](https://github.com/tengjuilin/orbit-simulation)|High School|Orbit simulation of a rocket/satellite launched from the Earth that performs Hohmann transfer and orbits around the Moon.|
-
-### Tools
-
-<img src="https://simpleicons.org/icons/python.svg" width=20 alt="logo">&nbsp;
-<img src="https://simpleicons.org/icons/numpy.svg" width=20 alt="logo">
-<img src="https://simpleicons.org/icons/pandas.svg" width=20 alt="logo">
-<img src="https://simpleicons.org/icons/scipy.svg" width=20 alt="logo">
-<img src="https://simpleicons.org/icons/scikitlearn.svg" width=20 alt="logo">
-<img src="https://simpleicons.org/icons/streamlit.svg" width=20 alt="logo">
-<img src="https://simpleicons.org/icons/travisci.svg" width=20 alt="logo">
-
-<img src="https://simpleicons.org/icons/html5.svg" width=20 alt="logo">&nbsp;
-<img src="https://simpleicons.org/icons/css3.svg" width=20 alt="logo">
-<img src="https://simpleicons.org/icons/netlify.svg" width=20 alt="logo">
-<img src="https://simpleicons.org/icons/hugo.svg" width=20 alt="logo">
-
-<img src="https://simpleicons.org/icons/git.svg" width=20 alt="logo">&nbsp;
-<img src="https://simpleicons.org/icons/markdown.svg" width=20 alt="logo">
-<img src="https://simpleicons.org/icons/latex.svg" width=20 alt="logo">
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width=20 alt="logo">
